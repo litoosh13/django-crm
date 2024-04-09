@@ -1,3 +1,3 @@
-## tealcrm
+## Django CRM
 
-an example project of CRUD and Role Management in django
+an example CRM Project using Python Django and Tailwind
